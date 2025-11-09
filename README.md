@@ -71,7 +71,7 @@ The main goal of this project is to:
 ---
 
 ## 👨‍💻 Developed by:
-**Rakunathan Priyatharsan**  
+**Nivethiha Thevarasa**  
 Bachelor of Science in Information Technology
 Rajarata University of Sri Lanka  
 

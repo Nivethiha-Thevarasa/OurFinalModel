@@ -75,4 +75,3 @@ The main goal of this project is to:
 Bachelor of Science in Information Technology
 Rajarata University of Sri Lanka  
 
----
